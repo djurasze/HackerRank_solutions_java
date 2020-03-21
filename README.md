@@ -5,7 +5,7 @@
     <br> Solutions to HackerRank problems
 </p>
 
-* [Implementation](#implementation)
+* [Algorithms](#Algorithms)
 
 Solutions are coded using Java 8
 
