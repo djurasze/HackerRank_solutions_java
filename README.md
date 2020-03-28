@@ -6,6 +6,7 @@
 </p>
 
 * [Algorithms](#Algorithms)
+* [Interview Preparation Kit](#Interview Preparation Kit)
 
 Solutions are coded using Java 8
 
@@ -20,3 +21,8 @@ Solutions are coded using Java 8
 | Greedy | [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/algorithms/greedy/grid_challenge/Solution.java)                        |
 | Strings | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)                                             |   30   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/algorithms/strings/highest_value_palindrome/Solution.java)                        |
 
+# Interview Preparation Kit
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Stacks and Queues | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)                                             |   25   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/interview_preparation_kit/stacks_and_queues/balanced_brackets/Solution.java)                        |
