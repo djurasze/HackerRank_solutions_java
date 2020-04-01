@@ -7,6 +7,7 @@
 
 * [Algorithms](#Algorithms)
 * [Interview Preparation Kit](#Interview Preparation Kit)
+* [SQL](#SQL)
 
 Solutions are coded using Java 8
 
@@ -28,3 +29,10 @@ Solutions are coded using Java 8
 | Stacks and Queues | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)                                             |   25   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/interview_preparation_kit/stacks_and_queues/balanced_brackets/Solution.java)                        |
 | Stacks and Queues | [A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues&h_r=next-challenge&h_v=zen)                                             |   30   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/interview_preparation_kit/stacks_and_queues/a_tale_of_two_stacks/Solution.java)                        |
 | Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)                                             |   30   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/interview_preparation_kit/recursion_and_backtracking/recursion_davis_staircase/Solution.java)                        |
+
+
+# SQL
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Basic Select | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                                             |   10   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/sql/basic_select/japanese_cities_names/Solution.sql)                        |
