@@ -6,6 +6,7 @@
 </p>
 
 * [Algorithms](#Algorithms)
+* [Data Structures](#Data Structures)
 * [Interview Preparation Kit](#Interview Preparation Kit)
 * [SQL](#SQL)
 
@@ -21,6 +22,12 @@ Solutions are coded using Java 8
 | Greedy | [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/algorithms/greedy/maximum_perimeter_triangle/Solution.java)                        |
 | Greedy | [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/algorithms/greedy/grid_challenge/Solution.java)                        |
 | Strings | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)                                             |   30   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/algorithms/strings/highest_value_palindrome/Solution.java)                        |
+
+# Data Structures
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Arrays | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/arrays/left_rotation/Solution.java)                        |
 
 # Interview Preparation Kit
 
