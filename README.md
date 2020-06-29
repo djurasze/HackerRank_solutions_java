@@ -28,7 +28,8 @@ Solutions are coded using Java 8
 |  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
 |:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Arrays | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/arrays/left_rotation/Solution.java)                        |
-| Arrays | [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/trees/tree_top_view/Solution.java)                        |
+| Trees | [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/trees/tree_top_view/Solution.java)                        |
+| Queues | [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/queues/queue_using_two_stacks/Solution.java)                        |
 
 # Interview Preparation Kit
 
