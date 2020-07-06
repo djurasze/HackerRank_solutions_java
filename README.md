@@ -31,6 +31,7 @@ Solutions are coded using Java 8
 | Trees | [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/trees/tree_top_view/Solution.java)                        |
 | Queues | [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)                                             |   20   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/queues/queue_using_two_stacks/Solution.java)                        |
 | Heap | [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)                                             |   25   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/heap/jesse_and_cookies/Solution.java)                        |
+| Heap | [QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)                                             |   25   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/data_structures/heap/qheap1/Solution.java)                        |
 
 # Interview Preparation Kit
 
