@@ -61,3 +61,11 @@ Solutions are coded using Java 8
 | Advanced Select | [the PADS](https://www.hackerrank.com/challenges/the-pads/problem)                                             |   30   | [Solution.sql](https://github.com/djurasze/HackerRank_solutions_java/blob/master/sql/advanced_select/the_pads/Solution.sql)                        |
 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)                                             |   30   | [Solution.sql](https://github.com/djurasze/HackerRank_solutions_java/blob/master/sql/advanced_select/occupations/Solution.sql)                        |
 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)                                             |   30   | [Solution.sql](https://github.com/djurasze/HackerRank_solutions_java/blob/master/sql/advanced_select/binary_tree_nodes/Solution.sql)                        |
+
+
+# GeeksForGeeks
+
+|  Subdomain  |                                                Challenge                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  | [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0/?company[]=Amazon&problemType=full&difficulty[]=-1&page=1&query=company[]AmazonproblemTypefulldifficulty[]-1page1)                                             |   1   | [Solution.java](https://github.com/djurasze/HackerRank_solutions_java/blob/master/sql/geeks_for_geeks/bit_difference/Solution.sql)                        |
+
